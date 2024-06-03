@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\95kil\\source\\repos\\demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|c:\\users\\95kil\\source\\repos\\demo\\demo\\properties\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\properties\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|c:\\users\\95kil\\source\\repos\\demo\\demo\\addorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\addorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|c:\\users\\95kil\\source\\repos\\demo\\demo\\properties\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\properties\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\addorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\addorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\vieworder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\vieworder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\vieworder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\vieworder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\editorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\editorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\95kil\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|C:\\Users\\95kil\\source\\repos\\demo\\demo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{013049F5-1334-410D-B6E5-77C968C0AB09}|demo\\demo.csproj|solutionrelative:demo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "demo\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwCwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:18:06.569Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\Properties\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "demo\\Properties\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\Properties\\Model1.Context.cs",
+              "RelativeToolTip": "demo\\Properties\\Model1.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T05:27:27.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\Properties\\Model1.edmx",
+              "RelativeDocumentMoniker": "demo\\Properties\\Model1.edmx",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\Properties\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "demo\\Properties\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-29T05:26:54.565Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOrder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\AddOrder.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\AddOrder.xaml.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\AddOrder.xaml.cs*",
+              "RelativeToolTip": "demo\\AddOrder.xaml.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:06:22.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\AddOrder.xaml",
+              "RelativeDocumentMoniker": "demo\\AddOrder.xaml",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\AddOrder.xaml",
+              "RelativeToolTip": "demo\\AddOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T11:57:13.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\ViewOrder.xaml",
+              "RelativeDocumentMoniker": "demo\\ViewOrder.xaml",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\ViewOrder.xaml",
+              "RelativeToolTip": "demo\\ViewOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T11:57:44.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewOrder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\ViewOrder.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\ViewOrder.xaml.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\ViewOrder.xaml.cs",
+              "RelativeToolTip": "demo\\ViewOrder.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAhwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:05:45.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "demo\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\LoginWindow.xaml",
+              "RelativeToolTip": "demo\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T11:22:57.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\EditOrder.xaml",
+              "RelativeDocumentMoniker": "demo\\EditOrder.xaml",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\EditOrder.xaml",
+              "RelativeToolTip": "demo\\EditOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T11:57:24.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\95kil\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:44:32.693Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\App.xaml",
+              "RelativeDocumentMoniker": "demo\\App.xaml",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\App.xaml",
+              "RelativeToolTip": "demo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T11:19:33.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "demo\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\Properties\\Settings.settings",
+              "RelativeToolTip": "demo\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-05-27T11:20:23.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "demo\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\Properties\\Resources.resx",
+              "RelativeToolTip": "demo\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-27T11:20:19.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "demo\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "demo\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:20:16.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\App.config",
+              "RelativeDocumentMoniker": "demo\\App.config",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\App.config",
+              "RelativeToolTip": "demo\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAADvAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-27T11:20:09.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "demo\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\demo\\demo\\App.xaml.cs",
+              "RelativeToolTip": "demo\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:20:01.222Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
